@@ -1,0 +1,26 @@
+﻿employee_id,employee_name,gender,join_date,email,employment_status,department,position,location
+EMP001,Andi Saputra,Male,2021-03-15,andi.saputra@company.com,Active,Information Technology,Software Engineer,Jakarta
+EMP002,Budi Santoso,Male,2019-07-22,budi.santoso@company.com,Active,Finance,Finance Supervisor,Jakarta
+EMP003,Citra Lestari,Female,2022-01-10,citra.lestari@company.com,Active,Human Capital,HR Officer,Bandung
+EMP004,Dewi Anggraini,Female,2020-09-05,dewi.anggraini@company.com,Active,Marketing,Marketing Specialist,Surabaya
+EMP005,Eko Prasetyo,Male,2018-05-18,eko.prasetyo@company.com,Active,Operations,Operations Manager,Jakarta
+EMP006,Fajar Nugroho,Male,2023-02-20,fajar.nugroho@company.com,Probation,Information Technology,Data Analyst,Bandung
+EMP007,Gita Maharani,Female,2021-11-11,gita.maharani@company.com,Active,Sales,Sales Executive,Medan
+EMP008,Hendra Wijaya,Male,2017-04-30,hendra.wijaya@company.com,Active,Procurement,Procurement Officer,Jakarta
+EMP009,Indah Permata,Female,2024-01-08,indah.permata@company.com,Probation,Finance,Finance Staff,Surabaya
+EMP010,Joko Susilo,Male,2016-12-14,joko.susilo@company.com,Active,Operations,Operations Supervisor,Balikpapan
+EMP011,Karina Putri,Female,2022-08-01,karina.putri@company.com,Active,Human Capital,Talent Acquisition Specialist,Jakarta
+EMP012,Lukman Hakim,Male,2020-10-19,lukman.hakim@company.com,Active,Information Technology,System Administrator,Bandung
+EMP013,Maya Sari,Female,2019-02-25,maya.sari@company.com,Active,Legal,Legal Officer,Jakarta
+EMP014,Nanda Pratama,Male,2023-06-12,nanda.pratama@company.com,Active,Sales,Key Account Executive,Surabaya
+EMP015,Olivia Natalia,Female,2021-05-27,olivia.natalia@company.com,Active,Marketing,Brand Executive,Jakarta
+EMP016,Prasetyo Wibowo,Male,2018-11-09,prasetyo.wibowo@company.com,Active,Finance,Finance Manager,Jakarta
+EMP017,Qonita Rahma,Female,2024-03-04,qonita.rahma@company.com,Probation,Human Capital,HR Administration,Semarang
+EMP018,Rizky Kurniawan,Male,2022-07-15,rizky.kurniawan@company.com,Active,Information Technology,Machine Learning Engineer,Bandung
+EMP019,Salsa Aulia,Female,2020-01-21,salsa.aulia@company.com,Active,Customer Service,Customer Service Officer,Yogyakarta
+EMP020,Teguh Firmansyah,Male,2017-08-17,teguh.firmansyah@company.com,Active,Operations,Warehouse Supervisor,Surabaya
+EMP021,Ulfah Khairunnisa,Female,2023-09-11,ulfah.khairunnisa@company.com,Active,Procurement,Procurement Analyst,Jakarta
+EMP022,Vincent Gunawan,Male,2019-06-03,vincent.gunawan@company.com,Active,Sales,Regional Sales Manager,Medan
+EMP023,Wulan Puspita,Female,2021-04-26,wulan.puspita@company.com,Active,Finance,Payroll Officer,Jakarta
+EMP024,Yusuf Ramadhan,Male,2022-12-05,yusuf.ramadhan@company.com,Active,Information Technology,Business Intelligence Analyst,Bandung
+EMP025,Zahra Amalia,Female,2018-09-28,zahra.amalia@company.com,Active,Human Capital,Human Capital Manager,Jakarta
